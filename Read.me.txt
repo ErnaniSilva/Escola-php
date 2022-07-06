@@ -1,0 +1,2 @@
+O caminho incial para estartar a aplcação é http://localhost/MiniProjeto/Menu_geral.html#.
+Então permitido seguir explorando a aplicação e suas funcionalidades.
